@@ -18,6 +18,10 @@
     margin-bottom: 83px;
 }
 
+.banner .title{
+    margin-left: -105px;
+}
+
 .banner .navegation {
     justify-content: flex-start;
 }
