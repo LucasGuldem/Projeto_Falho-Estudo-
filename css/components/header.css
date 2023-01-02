@@ -1,10 +1,8 @@
 .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: #591F0A;
     border-bottom: 10px solid #000;
     padding: 10px 20px;
     height: 80px;
-    left: 145px;
-    top: 22px;
 }

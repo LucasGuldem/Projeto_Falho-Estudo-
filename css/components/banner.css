@@ -11,15 +11,16 @@
 
 .banner .wrapper {
     flex-direction: row;
-    width: 1188.85px;
+    
 }
 
 .banner .box{
     margin-bottom: 83px;
+    margin-left: 21.15px;
 }
 
-.banner .title{
-    margin-left: -105px;
+.banner .main-title{
+    margin-left: -410px;
 }
 
 .banner .navegation {

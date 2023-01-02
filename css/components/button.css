@@ -11,6 +11,7 @@
     margin-right: 0;
     transition: transform 150ms ease-in-out;
     text-decoration: none;
+    text-align: flex-end;
 }
 
 .button:hover {
