@@ -3,16 +3,11 @@
     height: 165.55px;
     padding-left: 380.15px;
     background: #591F0A;
-    width: 1188.85px;
+    width: 950.85px;
     filter: drop-shadow(10px 10px 0px #000000);
 }
 
 .box .main-title {
-    margin-bottom: 16.24px;
+    margin-bottom: 8px;
     margin-top: -22.00px;
-}
-
-.box .subtitle{
-    padding-left: 200.85px;
-    padding-right: 24.5px;
 }

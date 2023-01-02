@@ -2,7 +2,7 @@
     display: inline-flex;
     background-color: #FFBA08;
     color: #FFFFFF;
-    font-size: 40px;
+    font-size: 30px;
     font-family: 'Press Start 2P';
     font-weight: 400;
     box-shadow: 5px 5px 0px #000000;
@@ -11,7 +11,6 @@
     margin-right: 0;
     transition: transform 150ms ease-in-out;
     text-decoration: none;
-    text-align: flex-end;
 }
 
 .button:hover {

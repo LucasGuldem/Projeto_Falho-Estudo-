@@ -10,17 +10,16 @@
 }
 
 .banner .wrapper {
-    flex-direction: row;
-    
+    display: inline-block;
 }
 
 .banner .box{
     margin-bottom: 83px;
-    margin-left: 21.15px;
+    margin-left: 21px;
 }
 
 .banner .main-title{
-    margin-left: -1010px;
+    margin-left: -770px;
 }
 
 .banner .navegation {
