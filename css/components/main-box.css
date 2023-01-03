@@ -1,4 +1,4 @@
-.box {
+.main-box {
     display: inline-block;
     height: 165.55px;
     padding-left: 380.15px;
@@ -7,7 +7,7 @@
     filter: drop-shadow(10px 10px 0px #000000);
 }
 
-.box .main-title {
+.main-box .main-title {
     margin-bottom: 8px;
     margin-top: -22.00px;
 }

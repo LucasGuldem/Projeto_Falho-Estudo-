@@ -1,5 +1,6 @@
 .skill-tec{
     display: flex;
+    align-items: center;
     font-family: 'Press Start 2P';
     color: #FFFFFF;
     font-weight: 400;
@@ -8,10 +9,15 @@
 
 .skill-tec .icon{
     margin-right: 25.73px;
+    width: 93px;
 }
 
 .skill-tec .rigth{
     display: flex;
     flex-direction: column;
     justify-content:space-around;
+}
+
+.skill-tec .title{
+    margin-bottom: 15px;
 }

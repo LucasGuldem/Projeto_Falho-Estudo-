@@ -1,4 +1,4 @@
-.banner {
+.main-banner {
     box-sizing: border-box;
     background-image: url(../../assets/img/pixel\ banner.png);
     background-repeat: no-repeat;
@@ -9,19 +9,19 @@
     padding-left: 81.15px;
 }
 
-.banner .wrapper {
+.main-banner .main-wrapper {
     display: inline-block;
 }
 
-.banner .box{
+.main-banner .main-box{
     margin-bottom: 83px;
     margin-left: 21px;
 }
 
-.banner .main-title{
+.main-banner .main-title{
     margin-left: -770px;
 }
 
-.banner .navegation {
+.main-banner .main-navegation {
     justify-content: space-around;
 }

@@ -1,8 +1,8 @@
-.button {
+.main-button {
     display: inline-flex;
     background-color: #FFBA08;
     color: #FFFFFF;
-    font-size: 30px;
+    font-size: 40px;
     font-family: 'Press Start 2P';
     font-weight: 400;
     box-shadow: 5px 5px 0px #000000;
@@ -13,7 +13,7 @@
     text-decoration: none;
 }
 
-.button:hover {
+.main-button:hover {
     transform: scale(0.8);
     opacity: 0.8;
 }

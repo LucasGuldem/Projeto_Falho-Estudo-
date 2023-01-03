@@ -4,7 +4,7 @@
     padding-top: 52px;
 }
 
-.section .main-title.-third {
+.section .main-title.-second {
     font-size: 90px;
     color: #FFF;
     text-shadow: 0px 4px 4px #000;
@@ -12,4 +12,12 @@
     padding-top: 52px;
     padding-bottom: 388px;
     padding-left: 735px;
+}
+
+.section.-bgBlack{
+    background-color: #591F0A;
+}
+
+.section.-bdFirst{
+    border-color: #FFBA08;;
 }
