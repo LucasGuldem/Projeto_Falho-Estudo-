@@ -1,16 +1,16 @@
 .section {
-    height: 540px;
-
+    height: 369px;
 }
 
 .section .main-title.-second {
+    font-weight: 400;
     font-size: 90px;
+    line-height: 90px;
     color: #FFF;
     text-shadow: 0px 4px 4px #000;
-    padding-right: 65px;
-    padding-top: 52px;
-    padding-bottom: 388px;
-    padding-left: 735px;
+    padding: 37px 65px 23px 715px;
+    width: 660px;
+    height: 57px;
 }
 
 .section.-bgBlack{
@@ -18,5 +18,5 @@
 }
 
 .section.-bdFirst{
-    border: #FFBA08;
+    border-bottom: 10px solid #FFBA08;
 }
