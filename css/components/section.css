@@ -1,6 +1,15 @@
-.section{
-    background-color: #FFBA08;
-    padding-top: 21px;
-    padding-bottom: 125px;
-    border-bottom: 10px solid #000000;
+.section {
+    height:740px;
+    background: #591F0A;
+    padding-top: 52px;
+}
+
+.section .main-title.-third {
+    font-size: 90px;
+    color: #FFF;
+    text-shadow: 0px 4px 4px #000;
+    padding-right: 65px;
+    padding-top: 52px;
+    padding-bottom: 388px;
+    padding-left: 735px;
 }
