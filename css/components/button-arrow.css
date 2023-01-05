@@ -1,0 +1,41 @@
+.button-arrow.-right {
+    width: 50px;
+    height: 91px;
+    background: #FFBA08;
+    box-shadow: 5px 5px 0px #000000;
+    cursor: pointer;
+}
+
+.button-arrow .content {
+    display: none;
+}
+
+.button-arrow.-right::before{
+    content: "";
+    display: block;
+    box-sizing: border-box;
+    width: 68px;
+    height: 32px;
+    border: 32px solid transparent;
+    border-left-color: #FFFFFF;
+    transform: translateX(8px);
+}
+
+.button-arrow.-left {
+    width: 50px;
+    height: 91px;
+    background: #FFBA08;
+    box-shadow: 5px 5px 0px #000000;
+    cursor: pointer;
+}
+
+.button-arrow.-left::before {
+    content: "";
+    display: block;
+    box-sizing: border-box;
+    width: 68px;
+    height: 32px;
+    border: 32px solid transparent;
+    border-left-color: #FFFFFF;
+    transform: rotate(180deg) translate(32px);
+}

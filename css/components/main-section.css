@@ -8,3 +8,7 @@
 .main-section .main-title {
     margin-bottom: 16px;
 }
+
+.main-section.-bgSecond {
+    background-color: #591F0A;
+}
